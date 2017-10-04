@@ -1,0 +1,12 @@
+Steak
+Steak
+Steak
+exit
+
+  /* eventTypeMap = Arrays.stream(EventType.values()).collect(Collectors
+                    .toMap(Function.identity(), k -> new ArrayList<EventDataRow>(),
+                            (k1, k2) -> new ArrayList<EventDataRow>()));*/
+
+                             /*   public static void main(String[] args) {
+                                    System.out.println(statisticStorage.eventTypeMap);
+                                }*/
