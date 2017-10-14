@@ -40,7 +40,6 @@ public class Solution {
     private static void checkDirectory(Deque<File> deque, File file) {
         if (file.isDirectory()) {
             deque.push(file);
-//            Collections.addAll(deq, new File(file.getAbsolutePath()).listFiles());
         }
     }
 
